@@ -1,0 +1,16 @@
+{
+  "name": "dts",
+  "version": "1.0.0",
+  "description": "Timestamp Decoder",
+  "main": "dst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+  "dst": "./dst.js"
+}
+
+}
